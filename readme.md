@@ -2,7 +2,7 @@
 
 Update of the [HDI_HTTP_Classes](https://github.com/4d-depot/HDI_HTTP_Classes) with support for agents (4D 20 R6)
 
-Find more information on the [blog post](https://blog.4d.com/).
+Find more information on the [blog post](https://blog.4d.com/managing-http-requests-with-http-agents/).
 
 ## Installing and Using a 4D Project
 
